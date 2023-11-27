@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #f9d423, #a35200);
+}
+
+.coin-container {
+  min-width: 420px;
+  min-height: 580px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  text-align: center;
+  padding: 50px;
+}
+
+.img-setting1 {
+  height: 120px;
+  width: 120px;
+}
+
+.nn {
+  display: flex;
+  margin-left: 60px;
+  margin-top: 50px;
+}
+
+P {
+  margin: 8px;
+}
